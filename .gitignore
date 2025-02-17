@@ -1,0 +1,34 @@
+# Compiled object files, libraries, executables
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/cmake-build-*/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
