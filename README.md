@@ -1,4 +1,4 @@
-# Oblivious Data Structures Project
+# Oblivious Data Structures
 
 This project implements several oblivious data structures in C++ based on the research paper:
 
