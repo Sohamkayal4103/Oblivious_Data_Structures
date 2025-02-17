@@ -12,12 +12,6 @@ The implementation includes:
 - **Oblivious Priority Queue** – An array-based heap (using a `readPath` function to avoid revealing random access patterns) with `Insert` and `ExtractMin` operations.
 - **Oblivious Map** – An AVL tree-based map supporting `Insert` and `Find` operations (including rotations for balancing).
 
-## Project Structure
-
-```
-ObliviousDS_Project/ ├── main.cpp ├── Utilities.h ├── ODSClient.h ├── ObliviousStack.h ├── ObliviousStack.cpp ├── ObliviousQueue.h ├── ObliviousQueue.cpp ├── ObliviousPriorityQueue.h ├── ObliviousPriorityQueue.cpp ├── ObliviousMap.h ├── ObliviousMap.cpp ├── .gitignore └── README.md
-```
-
 ## Requirements
 
 - A C++14 or C++17 compliant compiler (e.g., g++ or clang++).
