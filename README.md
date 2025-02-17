@@ -24,12 +24,12 @@ The implementation includes:
 From the project root, run:
 
 ```bash
-g++ -std=c++17 -o ObliviousDS_Project main.cpp ObliviousStack.cpp ObliviousQueue.cpp ObliviousPriorityQueue.cpp ObliviousMap.cpp
+g++ -std=c++17 -o ObliviousDS main.cpp ObliviousStack.cpp ObliviousQueue.cpp ObliviousPriorityQueue.cpp ObliviousMap.cpp
 ```
 
 Then execute the binary:
 ```bash
-./ObliviousDS_Project
+./ObliviousDS
 ```
 
 ## License
